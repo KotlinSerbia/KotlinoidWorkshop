@@ -68,3 +68,7 @@ ci_emulators.txt
 ci_working_testing.py
 logcat.txt
 *.pyc
+
+.idea/*
+gradlew*
+gradle/*
